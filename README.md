@@ -48,6 +48,6 @@ Blue line shows the predtiction of the bike rental and orange line shows actual 
 
 ![pred](./plots/prediction.png)
 
-The model predicts the data well up to December 21. However, it fails to for the final part of the data. This needs to be investigated further. This is probably caused by the hiliday period. 
+The model predicts the data well up to December 21. However, it fails to for the final part of the data. This needs to be investigated further. This is probably caused by the holiday period. 
 
 
